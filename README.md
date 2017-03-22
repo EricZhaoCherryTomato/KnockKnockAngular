@@ -1,5 +1,7 @@
 # KnockKnockAngular
 
+https://codeship.com/projects/9b6fda40-f0ea-0134-a265-7e8cdab40218/status?branch=master
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.4.
 
 ## Development server
