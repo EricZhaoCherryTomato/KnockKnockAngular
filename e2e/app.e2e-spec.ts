@@ -7,8 +7,8 @@ describe('knock-knock-angular App', () => {
     page = new KnockKnockAngularPage();
   });
 
-  it('should display message saying app works', () => {
+  it('should display message saying Knock Knock', () => {
     page.navigateTo();
-    expect(page.getParagraphText()).toEqual('app works!');
+    expect(page.getParagraphText()).toEqual('Knock Knock!');
   });
 });
